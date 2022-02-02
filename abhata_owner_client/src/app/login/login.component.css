@@ -1,0 +1,39 @@
+.container{
+    margin-left: 26.5%;
+    margin-top: 2em;
+    padding: 40px;
+    width: 33%;
+}
+
+.form-group{
+    padding: 4px;
+
+}
+
+input[type=text], input[type=password]{
+
+    font-family: sans-serif;
+    font-size: 100%;
+    width: 100%;
+    padding: 12px 20px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+
+}
+.btn {
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+.mat-button{
+    margin-bottom: 1.5em;
+    color: #249ba3
+}
+
+.selected{
+    color: rgb(204, 35, 35)
+}
+

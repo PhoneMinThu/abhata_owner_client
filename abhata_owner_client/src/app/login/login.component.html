@@ -1,0 +1,20 @@
+<form >
+    <div class='container'>
+        <div class="form-group">
+            <label for="userName">UserName</label>
+            <input id="name" type="text" class="form-control" placeholder="Enter Username">
+        </div>
+        <div class="form-group">
+            <Label for="password">Password</Label>
+            <input id="password" type="{{visible}}" class="form-control" placeholder="Enter Password">
+        </div>
+        <div class="form-group">
+            <span><button 
+                mat-button 
+                (click)="toggle()"
+                [class.selected]="visible==='text'"
+                >show</button></span>
+            <span><button mat-raised-button color="primary" type="submit" class="btn">Login</button></span>
+        </div>
+    </div>
+</form>

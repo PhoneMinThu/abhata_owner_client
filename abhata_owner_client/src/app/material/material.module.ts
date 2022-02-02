@@ -5,6 +5,7 @@ import { MatButtonModule } from '@angular/material/button';
 import { MatSidenavModule } from '@angular/material/sidenav';
 import { MatIconModule } from '@angular/material/icon';
 import { MatListModule } from '@angular/material/list';
+import { MatPseudoCheckboxModule } from '@angular/material/core';
 
 const MaterialModules =[
   LayoutModule,
@@ -13,6 +14,7 @@ const MaterialModules =[
   MatSidenavModule,
   MatIconModule,
   MatListModule,
+  MatPseudoCheckboxModule,
 ];
 
 @NgModule({
