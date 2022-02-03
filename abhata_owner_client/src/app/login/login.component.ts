@@ -6,14 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./login.component.css']
 })
 export class LoginComponent implements OnInit {
-  visible:string='password'
-  toggle() {
-    if (this.visible=='password') {
-      this.visible='text'
-    } else {
-      this.visible='password'
-    }
-  }
+  hide =true;
   constructor() { }
 
   ngOnInit(): void {
