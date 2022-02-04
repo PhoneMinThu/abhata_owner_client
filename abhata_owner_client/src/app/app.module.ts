@@ -11,6 +11,9 @@ import { DashboradComponent } from './dashborad/dashborad.component';
 import { LoginComponent } from './login/login.component';
 import { Screen1Component } from './screen1/screen1.component';
 import { FormsModule } from '@angular/forms';
+import { ReactiveFormsModule } from '@angular/forms';
+
+
 
 @NgModule({
   declarations: [
@@ -28,8 +31,8 @@ import { FormsModule } from '@angular/forms';
     AppRoutingModule,
     BrowserAnimationsModule,
     MaterialModule,
-    FormsModule
-    
+    FormsModule,
+    ReactiveFormsModule,
   ],
   providers: [],
   bootstrap: [AppComponent]

@@ -1,14 +1,15 @@
 <div class="background">
     <div class='container'>
-        <form >
+        <form [formGroup]="form" (ngSubmit)="onSubmit()">
             <div class="form-group">
                 <label for="userName">UserName</label>
                 <div class="input-field">
                     <input 
-                        id="name" 
+                        formControlName ='name'
                         type="text" 
                         class="form-control" 
                         placeholder="Enter Username"
+                        required
                     >
                 </div>
             </div>
@@ -16,7 +17,7 @@
                 <Label for="password">Password</Label>
                 <div class="input-field">
                     <input 
-                        id="password" 
+                        formControlName ='password' 
                         [type]="hide ? 'password' : 'text'" 
                         class="form-control" 
                         placeholder="Enter Password"
@@ -40,5 +41,5 @@
             </div>
         </form>
     </div>
-
 </div>
+
