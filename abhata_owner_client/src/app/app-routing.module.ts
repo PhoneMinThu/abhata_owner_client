@@ -8,6 +8,7 @@ import { Screen1Component } from './screen1/screen1.component';
 import { UsersComponent } from './users/users.component';
 import { UsersTableComponent } from './users/users-table/users-table.component';
 import { UsersActionComponent } from './users/users-action/users-action.component';
+import { TableComponent } from './table/table.component';
 
 const routes: Routes = [
   {path:'home', component : HomeComponent},
@@ -19,7 +20,7 @@ const routes: Routes = [
     {path:'',redirectTo:'table',pathMatch:'full'}
   ]
 },
-  {path:'screen1', component : Screen1Component},
+  {path:'table', component : TableComponent},
   {path:'about', component : AboutComponent},
   {path:'login', component : LoginComponent},
   { path: '', redirectTo: '/home', pathMatch: 'full' }  

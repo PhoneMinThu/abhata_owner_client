@@ -1,0 +1,10 @@
+.header{
+    background-color: #f4e7a1;
+    color: rgb(0, 0, 0);
+    display: flex;
+    padding: 5px;
+}
+.header h2{
+    align-self: center;
+    margin: 0;
+}

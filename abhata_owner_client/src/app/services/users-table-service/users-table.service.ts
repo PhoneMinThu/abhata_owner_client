@@ -9,6 +9,7 @@ import { HttpService } from '../http-service/http.service';
 })
 export class UsersTableService {
 
+
   URL:string = 'usersTable.json';
 
   constructor(
@@ -18,4 +19,5 @@ export class UsersTableService {
   get():Observable<any[]>{
     return this.httpService.get(this.URL);
   }
+
 }

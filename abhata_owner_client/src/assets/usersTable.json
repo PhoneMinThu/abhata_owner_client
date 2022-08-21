@@ -6,31 +6,35 @@
       "user_points": "12",
       "profile_image_url": "www.xxx.xxx",
       "user_address": "KyiMyintDaing",
-      "user_latlng": "1212121",
+      "user_latlng": {"lat":12,"lng":15},
       "contact_list": [
         {
+          "contact_id":"2",
           "contact_names": "AungThetMaw",
           "contact_phone_numbers": "09231235123",
           "contact_addresses": "ThinGyanKyun",
-          "contact_latlng": "12321412"
+          "contact_latlng": {"lat":12,"lng":15}
         },
         {
+          "contact_id":"2",
           "contact_names": "AungMyoKyaw",
           "contact_phone_numbers": "0913515113",
           "contact_addresses": "NorthDagon",
-          "contact_latlng": "2113131231"
+          "contact_latlng": {"lat":12,"lng":15}
         },
         {
+          "contact_id":"2",
           "contact_names": "YanNaingHein",
           "contact_phone_numbers": "092131413134",
           "contact_addresses": "NorthDagon",
-          "contact_latlng": "1231561231"
+          "contact_latlng": {"lat":12,"lng":15}
         },
         {
+          "contact_id":"2",
           "contact_names": "ThwinEMaung",
           "contact_phone_numbers": "0921365463453",
           "contact_addresses": "---",
-          "contact_latlng": "1235123"
+          "contact_latlng":{"lat":12,"lng":15}
         }
       ]
     },
@@ -41,31 +45,35 @@
       "user_points": "9",
       "profile_image_url": "www.xxx.xxx",
       "user_address": "NorthDagon",
-      "user_latlng": "1212121",
+      "user_latlng": {"lat":12,"lng":15},
       "contact_list": [
         {
+          "contact_id":"2",
           "contact_names": "AungThetMaw",
           "contact_phone_numbers": "09231235123",
           "contact_addresses": "ThinGyanKyun",
-          "contact_latlng": "12321412"
+          "contact_latlng": {"lat":12,"lng":15}
         },
         {
+          "contact_id":"2",
           "contact_names": "AungMyoKyaw",
           "contact_phone_numbers": "0913515113",
           "contact_addresses": "NorthDagon",
-          "contact_latlng": "2113131231"
+          "contact_latlng": {"lat":12,"lng":15}
         },
         {
+          "contact_id":"2",
           "contact_names": "YanNaingHein",
           "contact_phone_numbers": "092131413134",
           "contact_addresses": "NorthDagon",
-          "contact_latlng": "1231561231"
+          "contact_latlng": {"lat":12,"lng":15}
         },
         {
+          "contact_id":"2",
           "contact_names": "ThwinEMaung",
           "contact_phone_numbers": "0921365463453",
           "contact_addresses": "---",
-          "contact_latlng": "1235123"
+          "contact_latlng": {"lat":12,"lng":15}
         }
       ]
     },
@@ -76,31 +84,35 @@
       "user_points": "15",
       "profile_image_url": "www.xxx.xxx",
       "user_address": "NorthDagon",
-      "user_latlng": "1212121",
+      "user_latlng": {"lat":12,"lng":15},
       "contact_list": [
         {
+          "contact_id":"2",
           "contact_names": "AungThetMaw",
           "contact_phone_numbers": "09231235123",
           "contact_addresses": "ThinGyanKyun",
-          "contact_latlng": "12321412"
+          "contact_latlng": {"lat":12,"lng":15}
         },
         {
+          "contact_id":"2",
           "contact_names": "AungMyoKyaw",
           "contact_phone_numbers": "0913515113",
           "contact_addresses": "NorthDagon",
-          "contact_latlng": "2113131231"
+          "contact_latlng": {"lat":12,"lng":15}
         },
         {
+          "contact_id":"2",
           "contact_names": "YanNaingHein",
           "contact_phone_numbers": "092131413134",
           "contact_addresses": "NorthDagon",
-          "contact_latlng": "1231561231"
+          "contact_latlng": {"lat":12,"lng":15}
         },
         {
+          "contact_id":"2",
           "contact_names": "ThwinEMaung",
           "contact_phone_numbers": "0921365463453",
           "contact_addresses": "---",
-          "contact_latlng": "1235123"
+          "contact_latlng": {"lat":12,"lng":15}
         }
       ]
     },
@@ -111,31 +123,35 @@
       "user_points": "13",
       "profile_image_url": "www.xxx.xxx",
       "user_address": "NorthDagon",
-      "user_latlng": "1212121",
+      "user_latlng": {"lat":12,"lng":15},
       "contact_list": [
         {
+          "contact_id":"2",
           "contact_names": "AungThetMaw",
           "contact_phone_numbers": "09231235123",
           "contact_addresses": "ThinGyanKyun",
-          "contact_latlng": "12321412"
+          "contact_latlng": {"lat":12,"lng":15}
         },
         {
+          "contact_id":"2",
           "contact_names": "AungMyoKyaw",
           "contact_phone_numbers": "0913515113",
           "contact_addresses": "NorthDagon",
-          "contact_latlng": "2113131231"
+          "contact_latlng": {"lat":12,"lng":15}
         },
         {
+          "contact_id":"2",
           "contact_names": "YanNaingHein",
           "contact_phone_numbers": "092131413134",
           "contact_addresses": "NorthDagon",
-          "contact_latlng": "1231561231"
+          "contact_latlng": {"lat":12,"lng":15}
         },
         {
+          "contact_id":"2",
           "contact_names": "ThwinEMaung",
           "contact_phone_numbers": "0921365463453",
           "contact_addresses": "---",
-          "contact_latlng": "1235123"
+          "contact_latlng": {"lat":12,"lng":15}
         }
       ]
     },
@@ -146,31 +162,35 @@
       "user_points": "17",
       "profile_image_url": "www.xxx.xxx",
       "user_address": "SinMaLite",
-      "user_latlng": "1212121",
+      "user_latlng": {"lat":12,"lng":15},
       "contact_list": [
         {
+          "contact_id":"2",
           "contact_names": "AungThetMaw",
           "contact_phone_numbers": "09231235123",
           "contact_addresses": "ThinGyanKyun",
-          "contact_latlng": "12321412"
+          "contact_latlng": {"lat":12,"lng":15}
         },
         {
+          "contact_id":"2",
           "contact_names": "AungMyoKyaw",
           "contact_phone_numbers": "0913515113",
           "contact_addresses": "NorthDagon",
-          "contact_latlng": "2113131231"
+          "contact_latlng": {"lat":12,"lng":15}
         },
         {
+          "contact_id":"2",
           "contact_names": "YanNaingHein",
           "contact_phone_numbers": "092131413134",
           "contact_addresses": "NorthDagon",
-          "contact_latlng": "1231561231"
+          "contact_latlng": {"lat":12,"lng":15}
         },
         {
+          "contact_id":"2",
           "contact_names": "ThwinEMaung",
           "contact_phone_numbers": "0921365463453",
           "contact_addresses": "---",
-          "contact_latlng": "1235123"
+          "contact_latlng": {"lat":12,"lng":15}
         }
       ]
     }

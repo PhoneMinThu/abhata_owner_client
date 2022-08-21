@@ -19,6 +19,10 @@ import { UsersActionComponent } from './users/users-action/users-action.componen
 import { CustomTableComponent } from './shared/custom-table/custom-table.component';
 import { DetailTableComponent } from './shared/detail-table/detail-table.component';
 import { ActionButtonComponent } from './shared/action-button/action-button.component';
+import { TableComponent } from './table/table.component';
+import { MatTableModule } from '@angular/material/table';
+import { MatPaginatorModule } from '@angular/material/paginator';
+import { MatSortModule } from '@angular/material/sort';
 
 
 
@@ -37,6 +41,7 @@ import { ActionButtonComponent } from './shared/action-button/action-button.comp
     CustomTableComponent,
     DetailTableComponent,
     ActionButtonComponent,
+    TableComponent,
     
   ],
   imports: [
@@ -47,6 +52,9 @@ import { ActionButtonComponent } from './shared/action-button/action-button.comp
     FormsModule,
     ReactiveFormsModule,
     HttpClientModule,
+    MatTableModule,
+    MatPaginatorModule,
+    MatSortModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
